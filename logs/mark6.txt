@@ -1,0 +1,45 @@
+vl4ddos@MacBook-Pro-Vladislav kdz2 % ./mark6
+No clients. Barber is sleeping.
+Client woke up the barber.
+Total numbers of clients in the waiting room - 1
+Barber is cutting hair.
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 1
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 2
+Barber is cutting hair.
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 2
+Barber is cutting hair.
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 2
+Barber is cutting hair.
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 2
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 3
+Barber is cutting hair.
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 3
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 4
+Barber is cutting hair.
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 4
+Barber is cutting hair.
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 4
+Barber is cutting hair.
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 4
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 5
+No place in the waiting room. Client is leaving.
+Barber is cutting hair.
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 5
+Barber is cutting hair.
+Client is waiting in the waiting room.
+Total numbers of clients in the waiting room - 5
+No place in the waiting room. Client is leaving.
+No place in the waiting room. Client is leaving.

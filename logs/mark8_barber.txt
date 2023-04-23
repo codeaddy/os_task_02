@@ -1,0 +1,36 @@
+vl4ddos@MacBook-Pro-Vladislav ~ % /Users/vl4ddos/Documents/hse_study/osi/kdz2/barber
+No clients. Barber is sleeping.
+No clients. Barber is sleeping.
+Barber is cutting hair.
+Barber: Finished cutting hair
+Barber is cutting hair.
+Barber: Finished cutting hair
+Barber is cutting hair.
+Barber: Finished cutting hair
+Barber is cutting hair.
+Barber: Finished cutting hair
+Barber is cutting hair.
+Barber: Finished cutting hair
+Barber is cutting hair.
+Barber: Finished cutting hair
+Barber is cutting hair.
+Barber: Finished cutting hair
+Barber is cutting hair.
+Barber: Finished cutting hair
+Barber is cutting hair.
+Barber: Finished cutting hair
+Barber is cutting hair.
+Barber: Finished cutting hair
+Barber is cutting hair.
+Barber: Finished cutting hair
+Barber is cutting hair.
+Barber: Finished cutting hair
+Barber is cutting hair.
+Barber: Finished cutting hair
+No clients. Barber is sleeping.
+No clients. Barber is sleeping.
+No clients. Barber is sleeping.
+No clients. Barber is sleeping.
+No clients. Barber is sleeping.
+No clients. Barber is sleeping.
+^CBarber: Shutting down
