@@ -55,7 +55,7 @@
 
 Скриншот запуска и вывод лога барбера:
 
-![](img/mark7_run.png)
+![](imgs/mark7_run.png)
 
 [Лог барбера](logs/mark7_barber.txt)
 
@@ -68,6 +68,6 @@
 
 Скриншот запуска и вывод лога барбера:
 
-![](img/mark8_run.png)
+![](imgs/mark8_run.png)
 
 [Лог барбера](logs/mark8_barber.txt)
